@@ -1,6 +1,6 @@
 {{/*
-        Made by Ranger (779096217853886504)
-        Credits: WickedWizard#3588 (719421577086894101)
+        Made by Ranger (765316548516380732)
+        Credits: WickedWizard (719421577086894101)
 
     Trigger Type: `Regex`
     Trigger: `\A!d\shelp(?:\s+|\z)`
