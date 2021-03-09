@@ -1,10 +1,8 @@
 {{/*
-        Made by Ranger (779096217853886504)
+        Made by Ranger (765316548516380732)
 
     Trigger Type: `Command`
     Trigger: `Modmyself`
-©️ Dynamic 2021
-MIT License
 */}}
 
 {{/* Configuration values start */}}
